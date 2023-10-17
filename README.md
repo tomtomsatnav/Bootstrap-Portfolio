@@ -1,6 +1,6 @@
 # Bootstrap Portfolio
 
-Foobar is a Python library for dealing with word pluralization.
+A basic Portfolio website made using Bootstrap, CSS and HTML.
 
 ## Usage
 
