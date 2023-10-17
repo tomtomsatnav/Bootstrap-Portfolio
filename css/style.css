@@ -3,3 +3,74 @@
     height: 40px;
     margin-right: 20px;
 }
+
+.header {
+    background-color: #f8f8f8;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.header h1 {
+    color: #333;
+}
+
+.header .btn-primary {
+    background-color: #007BFF;
+    border: none;
+}
+
+.about {
+    background-color: #f8f8f8;
+    padding: 50px 0;
+}
+
+.about p {
+    font-size: 18px;
+}
+
+.portfolio {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.portfolio h2 {
+    color: #333;
+}
+
+.portfolio p {
+    font-size: 16px;
+}
+
+.contact .btn-primary {
+    background-color: #007BFF;
+    margin: 10px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+}
+
+.navbar-brand {
+    color: #007BFF;
+}
+
+
+.navbar {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style links in the footer */
+.footer-links a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #f8f8f8;
+    padding: 20px 0;
+}
